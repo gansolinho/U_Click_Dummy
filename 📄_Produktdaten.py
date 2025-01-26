@@ -9,8 +9,8 @@ st.set_page_config(
 )
 
 # Logo
-logo_big = Image.open('images/logos/Uvex_Logo.svg')
-logo_small = Image.open('images/logos/uvex_logo_black.svg')
+logo_big = Image.open('u_click_dummy/images/logos/Uvex_Logo.svg')
+logo_small = Image.open('u_click_dummy/images/logos/uvex_logo_black.svg')
 st.logo(logo_big, size='large', icon_image=logo_small)
 
 # Page-Überschrift
