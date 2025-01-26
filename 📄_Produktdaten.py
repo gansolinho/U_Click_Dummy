@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Logo
-st.logo('https://github.com/gansolinho/U_Click_Dummy/blob/main/images/logos/Uvex_Logo.svg', size='large', icon_image=logo_small)
+st.logo('https://github.com/gansolinho/U_Click_Dummy/blob/main/images/logos/Uvex_Logo.svg', size='large', icon_image='https://github.com/gansolinho/U_Click_Dummy/blob/main/images/logos/uvex_logo_black.svg')
 
 # Page-Überschrift
 st.write("# Produktdaten 📄")
