@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 # Logo
-st.logo('images/logos/Uvex_logo.svg', size='large', icon_image='images/logos/uvex_logo_black.svg')
+st.logo('https://drive.google.com/file/d/1hC30Wa2Shvi10T3yem47BW_0umoO0T_Q/view?usp=drive_link', size='large', icon_image='https://drive.google.com/file/d/1IWrUNlSQzwpZla-3ycj9drekRTIb9pfM/view?usp=drive_link')
 
 # Page-Überschrift
 st.write("# After Sales 📤")
