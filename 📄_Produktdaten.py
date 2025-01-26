@@ -143,7 +143,7 @@ with tab2:
     col3.image('u_click_dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_3.webp')
     col4.image('u_click_dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_4.webp')
     col5.image('u_click_dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_5.webp')
-    col6.image('u_click_dummy/'images/jacke_suXXeed_industry/graphit/jacke_bild_6.webp')
+    col6.image('u_click_dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_6.webp')
 
     # Produktbilder: Rot
     st.write("##### rot")
