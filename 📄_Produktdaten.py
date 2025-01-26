@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Logo
-st.logo('U_Click_Dummy/images/logos/Uvex_logo.svg', size='large', icon_image='U_Click_Dummy/images/logos/uvex_logo_black.svg')
+st.logo('u_click_dummy/images/logos/Uvex_logo.svg', size='large', icon_image='u_click_dummy/images/logos/uvex_logo_black.svg')
 
 # Page-Überschrift
 st.write("# Produktdaten 📄")
@@ -90,12 +90,12 @@ with tab2:
     col1, col2, col3, col4, col5, col6 = st.columns(6)
 
     # Artikelbilder anzeigen
-    col1.image('U_Click_Dummy/images/jacke_suXXeed_industry/anthrazit/jacke_bild_1.webp')
-    col2.image('U_Click_Dummy/images/jacke_suXXeed_industry/anthrazit/jacke_bild_2.webp')
-    col3.image('U_Click_Dummy/images/jacke_suXXeed_industry/anthrazit/jacke_bild_3.webp')
-    col4.image('U_Click_Dummy/images/jacke_suXXeed_industry/anthrazit/jacke_bild_4.webp')
-    col5.image('U_Click_Dummy/images/jacke_suXXeed_industry/anthrazit/jacke_bild_5.webp')
-    col6.image('U_Click_Dummy/images/jacke_suXXeed_industry/anthrazit/jacke_bild_6.webp')
+    col1.image('u_click_dummy/images/jacke_suXXeed_industry/anthrazit/jacke_bild_1.webp')
+    col2.image('u_click_dummy/images/jacke_suXXeed_industry/anthrazit/jacke_bild_2.webp')
+    col3.image('u_click_dummy/images/jacke_suXXeed_industry/anthrazit/jacke_bild_3.webp')
+    col4.image('u_click_dummy/images/jacke_suXXeed_industry/anthrazit/jacke_bild_4.webp')
+    col5.image('u_click_dummy/images/jacke_suXXeed_industry/anthrazit/jacke_bild_5.webp')
+    col6.image('u_click_dummy/images/jacke_suXXeed_industry/anthrazit/jacke_bild_6.webp')
 
     # Trennstrich
     st.divider()
@@ -110,12 +110,12 @@ with tab2:
     col1, col2, col3, col4, col5, col6 = st.columns(6)
 
     # Artikelbilder anzeigen
-    col1.image('U_Click_Dummy/images/jacke_suXXeed_industry/nachtblau/jacke_bild_1.webp')
-    col2.image('U_Click_Dummy/images/jacke_suXXeed_industry/nachtblau/jacke_bild_2.webp')
-    col3.image('U_Click_Dummy/images/jacke_suXXeed_industry/nachtblau/jacke_bild_3.webp')
-    col4.image('U_Click_Dummy/images/jacke_suXXeed_industry/nachtblau/jacke_bild_4.webp')
-    col5.image('U_Click_Dummy/images/jacke_suXXeed_industry/nachtblau/jacke_bild_5.webp')
-    col6.image('U_Click_Dummy/images/jacke_suXXeed_industry/nachtblau/jacke_bild_6.webp')
+    col1.image('u_click_dummy/images/jacke_suXXeed_industry/nachtblau/jacke_bild_1.webp')
+    col2.image('u_click_dummy/images/jacke_suXXeed_industry/nachtblau/jacke_bild_2.webp')
+    col3.image('u_click_dummy/images/jacke_suXXeed_industry/nachtblau/jacke_bild_3.webp')
+    col4.image('u_click_dummy/images/jacke_suXXeed_industry/nachtblau/jacke_bild_4.webp')
+    col5.image('u_click_dummy/images/jacke_suXXeed_industry/nachtblau/jacke_bild_5.webp')
+    col6.image('u_click_dummy/images/jacke_suXXeed_industry/nachtblau/jacke_bild_6.webp')
 
     # Produktbilder: Ultramarin
     st.write("##### ultramarin")
@@ -124,12 +124,12 @@ with tab2:
     col1, col2, col3, col4, col5, col6 = st.columns(6)
 
     # Artikelbilder anzeigen
-    col1.image('U_Click_Dummy/images/jacke_suXXeed_industry/ultramarin/jacke_bild_1.webp')
-    col2.image('U_Click_Dummy/images/jacke_suXXeed_industry/ultramarin/jacke_bild_2.webp')
-    col3.image('U_Click_Dummy/images/jacke_suXXeed_industry/ultramarin/jacke_bild_3.webp')
-    col4.image('U_Click_Dummy/images/jacke_suXXeed_industry/ultramarin/jacke_bild_4.webp')
-    col5.image('U_Click_Dummy/images/jacke_suXXeed_industry/ultramarin/jacke_bild_5.webp')
-    col6.image('U_Click_Dummy/images/jacke_suXXeed_industry/ultramarin/jacke_bild_6.webp')
+    col1.image('u_click_dummy/images/jacke_suXXeed_industry/ultramarin/jacke_bild_1.webp')
+    col2.image('u_click_dummy/images/jacke_suXXeed_industry/ultramarin/jacke_bild_2.webp')
+    col3.image('u_click_dummy/images/jacke_suXXeed_industry/ultramarin/jacke_bild_3.webp')
+    col4.image('u_click_dummy/images/jacke_suXXeed_industry/ultramarin/jacke_bild_4.webp')
+    col5.image('u_click_dummy/images/jacke_suXXeed_industry/ultramarin/jacke_bild_5.webp')
+    col6.image('u_click_dummy/images/jacke_suXXeed_industry/ultramarin/jacke_bild_6.webp')
 
     # Produktbilder: Graphit
     st.write("##### graphit")
@@ -138,12 +138,12 @@ with tab2:
     col1, col2, col3, col4, col5, col6 = st.columns(6)
 
     # Artikelbilder anzeigen
-    col1.image('U_Click_Dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_1.webp')
-    col2.image('U_Click_Dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_2.webp')
-    col3.image('U_Click_Dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_3.webp')
-    col4.image('U_Click_Dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_4.webp')
-    col5.image('U_Click_Dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_5.webp')
-    col6.image(U_Click_Dummy/'images/jacke_suXXeed_industry/graphit/jacke_bild_6.webp')
+    col1.image('u_click_dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_1.webp')
+    col2.image('u_click_dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_2.webp')
+    col3.image('u_click_dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_3.webp')
+    col4.image('u_click_dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_4.webp')
+    col5.image('u_click_dummy/images/jacke_suXXeed_industry/graphit/jacke_bild_5.webp')
+    col6.image('u_click_dummy/'images/jacke_suXXeed_industry/graphit/jacke_bild_6.webp')
 
     # Produktbilder: Rot
     st.write("##### rot")
@@ -152,12 +152,12 @@ with tab2:
     col1, col2, col3, col4, col5, col6 = st.columns(6)
 
     # Artikelbilder anzeigen
-    col1.image('U_Click_Dummy/images/jacke_suXXeed_industry/rot/jacke_bild_1.webp')
-    col2.image('U_Click_Dummy/images/jacke_suXXeed_industry/rot/jacke_bild_2.webp')
-    col3.image('U_Click_Dummy/images/jacke_suXXeed_industry/rot/jacke_bild_3.webp')
-    col4.image('U_Click_Dummy/images/jacke_suXXeed_industry/rot/jacke_bild_4.webp')
-    col5.image('U_Click_Dummy/images/jacke_suXXeed_industry/rot/jacke_bild_5.webp')
-    col6.image('U_Click_Dummy/images/jacke_suXXeed_industry/rot/jacke_bild_6.webp')
+    col1.image('u_click_dummy/images/jacke_suXXeed_industry/rot/jacke_bild_1.webp')
+    col2.image('u_click_dummy/images/jacke_suXXeed_industry/rot/jacke_bild_2.webp')
+    col3.image('u_click_dummy/images/jacke_suXXeed_industry/rot/jacke_bild_3.webp')
+    col4.image('u_click_dummy/images/jacke_suXXeed_industry/rot/jacke_bild_4.webp')
+    col5.image('u_click_dummy/images/jacke_suXXeed_industry/rot/jacke_bild_5.webp')
+    col6.image('u_click_dummy/images/jacke_suXXeed_industry/rot/jacke_bild_6.webp')
 
 # Tab 3
 with tab3:
