@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-from PIL import Image
 
 # Konfigruation festlegen
 st.set_page_config(
@@ -9,9 +8,7 @@ st.set_page_config(
 )
 
 # Logo
-logo_big = Image.open('https://drive.google.com/file/d/1hC30Wa2Shvi10T3yem47BW_0umoO0T_Q/view?usp=drive_link')
-logo_small = Image.open('https://drive.google.com/file/d/1IWrUNlSQzwpZla-3ycj9drekRTIb9pfM/view?usp=drive_link')
-st.logo(logo_big, size='large', icon_image=logo_small)
+st.logo('https://github.com/gansolinho/U_Click_Dummy/blob/main/images/logos/Uvex_Logo.svg', size='large', icon_image=logo_small)
 
 # Page-Überschrift
 st.write("# Produktdaten 📄")
