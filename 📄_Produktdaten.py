@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Logo
-st.logo('https://d3uofxs4jxgzdh.cloudfront.net/fileadmin/_processed_/4/3/csm_de9ebfc1ac_730ac2312d.jpg', size='large', icon_image='https://d3uofxs4jxgzdh.cloudfront.net/fileadmin/_processed_/4/3/csm_de9ebfc1ac_730ac2312d.jpg')
+st.logo('https://raw.githubusercontent.com/gansolinho/U_Click_Dummy/856cef5e0bd627305dc0b1640c18c7a02762d9c2/images/logos/Uvex_Logo.svg', size='large', icon_image='https://raw.githubusercontent.com/gansolinho/U_Click_Dummy/856cef5e0bd627305dc0b1640c18c7a02762d9c2/images/logos/uvex_logo_black.svg')
 
 # Page-Überschrift
 st.write("# Produktdaten 📄")
