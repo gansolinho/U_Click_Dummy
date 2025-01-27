@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Logo
-st.logo('C:\Users\David\Documents\Studium\Master\2. Semester\Nachhaltigkeitstransformation\04_Click-Dummy\images\logos\Uvex_Logo.svg', size='large', icon_image='U_Click_Dummy/blob/main/images/logos/uvex_logo_black.svg')
+st.logo('https://d3uofxs4jxgzdh.cloudfront.net/fileadmin/_processed_/4/3/csm_de9ebfc1ac_730ac2312d.jpg', size='large', icon_image='https://d3uofxs4jxgzdh.cloudfront.net/fileadmin/_processed_/4/3/csm_de9ebfc1ac_730ac2312d.jpg')
 
 # Page-Überschrift
 st.write("# Produktdaten 📄")
